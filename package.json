@@ -1,0 +1,16 @@
+{
+  "name": "gadgets4u",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^15.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"sass ./sass/styles.scss styles.css --watch"
+  },
+  "author": "Sunoj Jose",
+  "license": "ISC"
+}

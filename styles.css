@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital@1&family=Rubik&display=swap");
+button, button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.fontRoboto {
+  font-family: "Roboto", regular;
+}
+
+.fontRubik {
+  font-family: "Rubik", regular;
+}
+
+.fontSans {
+  font-family: "Open Sans", regular;
+}
+
+.fontSize-12 {
+  font-size: 12px;
+}
+
+.fontSize-14 {
+  font-size: 14px;
+}
+
+.fontSize-16 {
+  font-size: 16px;
+}
+
+.fontSize-20 {
+  font-size: 20px;
+}
+
+.color_primary {
+  color: blue;
+}
+
+.color_secondary {
+  color: #00a5c4;
+}
+
+.color_yellow {
+  color: #ffff00;
+}
+
+.navbar {
+  background-color: #e3f2fd;
+}
+
+.stretch-card .card {
+  width: 100%;
+  min-width: 100%;
+  height: 100%;
+}
+
+.owl-carousel .owl-stage {
+  display: flex;
+}
+
+.owl-carousel .item .product img {
+  object-fit: contain;
+  width: 100%;
+  height: 15vw;
+}
+
+#banner img {
+  height: 100%;
+}
+
+.shopping-cart {
+  margin-top: 20px;
+}
+
+/*# sourceMappingURL=styles.css.map */
