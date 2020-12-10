@@ -16,7 +16,6 @@
     $_SESSION;
     
     $user_id ;
-    //$order_id;
 
     if (isset($_SESSION['login'])) {
 
@@ -28,9 +27,4 @@
         $user_id = mt_rand(1, 999999);
     }
 
-    // $_SESSION['order_id'] = mt_rand(1, 999999);
-    // $order_id = mt_rand(1, 999999);
-    // $order_id = $_SESSION['order_id'];
-    
-    
 ?>
