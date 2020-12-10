@@ -4,8 +4,7 @@ A Business E-Commerce Website Using HTML5, CSS3, JavaScript, PHP, And MySQL Data
 Gadgets4U
   
   In this e-commerce project it is created a responsive website of a Gadjet shop using HTML5, CSS3 (Bootstrp 4 Framework), JavaScript, PHP, and MySQL database.
-  The website is dynamic in nature (utilizes features of PHP and JavaScript); the .php pages details-modal.php, and product.php are some examples; the images displayed 
-  in the banner as well.
+  The website is also dynamic in nature (utilizes features of PHP and JavaScript). 
   
   The file main.php is the file responsible for calling the php files(helper classes for connecting to the database, retrieving data, inserting data, etc) in the folder core. 
   The images folder contains two subfolders with images used in this project.
